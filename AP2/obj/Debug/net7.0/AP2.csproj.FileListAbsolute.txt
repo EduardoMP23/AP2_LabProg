@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\AP2\bin\Debug\net7.0\AP2.exe
+C:\Users\Usuario\Desktop\AP2\bin\Debug\net7.0\AP2.deps.json
+C:\Users\Usuario\Desktop\AP2\bin\Debug\net7.0\AP2.runtimeconfig.json
+C:\Users\Usuario\Desktop\AP2\bin\Debug\net7.0\AP2.dll
+C:\Users\Usuario\Desktop\AP2\bin\Debug\net7.0\AP2.pdb
+C:\Users\Usuario\Desktop\AP2\obj\Debug\net7.0\AP2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\AP2\obj\Debug\net7.0\AP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\AP2\obj\Debug\net7.0\AP2.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\AP2\obj\Debug\net7.0\AP2.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\AP2\obj\Debug\net7.0\AP2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\AP2\obj\Debug\net7.0\AP2.dll
+C:\Users\Usuario\Desktop\AP2\obj\Debug\net7.0\refint\AP2.dll
+C:\Users\Usuario\Desktop\AP2\obj\Debug\net7.0\AP2.pdb
+C:\Users\Usuario\Desktop\AP2\obj\Debug\net7.0\AP2.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\AP2\obj\Debug\net7.0\ref\AP2.dll
